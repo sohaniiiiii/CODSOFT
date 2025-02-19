@@ -103,7 +103,7 @@ class AdvancedFoodChatbot:
             else:
                 print("⚠️ I'm sorry, I didn't understand that. Please enter a valid command.")
 
-# Run the chatbot
+# Run the chatbot[]
 if __name__ == "__main__":
     bot = AdvancedFoodChatbot()
     bot.chat()
